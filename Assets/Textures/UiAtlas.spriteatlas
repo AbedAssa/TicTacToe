@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UiAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4bdf4455f9bf84011a2627f0a092a243, type: 3}
+    - {fileID: 2800000, guid: b902637bd1898442ea312d28156332ca, type: 3}
+    - {fileID: 2800000, guid: 54470e088f91149fc80ac6dfd9f49c7e, type: 3}
+    - {fileID: 2800000, guid: 209522f0a742a46d484d36df5ec8e482, type: 3}
+    - {fileID: 2800000, guid: 2c0ff12133b094a6a9a294d3efc2eb76, type: 3}
+    - {fileID: 2800000, guid: ad95372d96f50493a89389188da864b1, type: 3}
+    - {fileID: 2800000, guid: 5e8278e012ff04d9a8bbd92350645568, type: 3}
+    - {fileID: 2800000, guid: bd30ced15dd1c4a81a8798331e1abe4a, type: 3}
+    totalSpriteSurfaceArea: 560061
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5e8278e012ff04d9a8bbd92350645568, type: 3}
+  - {fileID: 21300000, guid: 209522f0a742a46d484d36df5ec8e482, type: 3}
+  - {fileID: 21300000, guid: 2c0ff12133b094a6a9a294d3efc2eb76, type: 3}
+  - {fileID: 21300000, guid: bd30ced15dd1c4a81a8798331e1abe4a, type: 3}
+  - {fileID: 21300000, guid: 4bdf4455f9bf84011a2627f0a092a243, type: 3}
+  - {fileID: 21300000, guid: 54470e088f91149fc80ac6dfd9f49c7e, type: 3}
+  - {fileID: 21300000, guid: b902637bd1898442ea312d28156332ca, type: 3}
+  - {fileID: 21300000, guid: ad95372d96f50493a89389188da864b1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ExTarget
+  - Button
+  - Line
+  - CircleTarget
+  - BlueButton
+  - PopUpBackground
+  - CloseButton
+  - Circle
+  m_RenderDataMap: {}
+  m_Tag: UiAtlas
+  m_IsVariant: 0

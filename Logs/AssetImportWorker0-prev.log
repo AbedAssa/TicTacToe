@@ -1,0 +1,406 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/2020.3.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/abedassa/Desktop/MoonActive/TicTacToe
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54855
+Successfully changed project path to: /Users/abedassa/Desktop/MoonActive/TicTacToe
+/Users/abedassa/Desktop/MoonActive/TicTacToe
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path /Applications/2020.3.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/abedassa/Desktop/MoonActive/TicTacToe/Assets
+GfxDevice: creating device client; threaded=0
+2022-11-03 21:10:09.491 Unity[12957:1000669] DELL P2415Q preferred device: AMD Radeon R9 M370X (high power)
+2022-11-03 21:10:09.491 Unity[12957:1000669] Metal devices available: 2
+2022-11-03 21:10:09.491 Unity[12957:1000669] 0: AMD Radeon R9 M370X (high power)
+2022-11-03 21:10:09.491 Unity[12957:1000669] 1: Intel Iris Pro Graphics (low power)
+2022-11-03 21:10:09.491 Unity[12957:1000669] Using device AMD Radeon R9 M370X (high power)
+Initializing Metal device caps: AMD Radeon R9 M370X
+Initialize mono
+Mono path[0] = '/Applications/2020.3.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.3.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.3.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56957
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.3.3f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.3.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.3.3f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001592 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 39.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.581 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 43.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.353 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/2020.3.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1845 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.1 MB.
+System memory in use after: 155.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 3.686591 ms (FindLiveObjects: 0.331428 ms CreateObjectMapping: 0.136078 ms MarkObjects: 3.016812 ms  DeleteObjects: 0.200737 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Textures/UiAtlas.spriteatlas
+  artifactKey: Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UiAtlas.spriteatlas using Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Invalid sprite atlas asset encountered when matching atlas for sprite Button. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite BlueButton. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite CloseButton. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite CircleTarget. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Circle. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite ExTarget. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite PopUpBackground. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Line. Please repack all your sprite atlases.
+
+ -> (artifact id: '6b2304a811fd91bb8e6a434479475919') in 0.994830 seconds
+  Import took 0.999682 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000600 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.8 MB.
+System memory in use after: 158.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 2.894804 ms (FindLiveObjects: 0.320726 ms CreateObjectMapping: 0.143749 ms MarkObjects: 2.309102 ms  DeleteObjects: 0.120178 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.610803 seconds.
+  path: Assets/Textures/UiAtlas.spriteatlas
+  artifactKey: Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UiAtlas.spriteatlas using Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Invalid sprite atlas asset encountered when matching atlas for sprite BlueButton. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite CloseButton. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite PopUpBackground. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Button. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite CircleTarget. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Circle. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite ExTarget. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Line. Please repack all your sprite atlases.
+
+ -> (artifact id: '0b8ec5a51dc7c926fab172e6145e3463') in 0.021556 seconds
+  Import took 0.026200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007179 seconds.
+  path: Assets/Textures/UiAtlas.spriteatlas
+  artifactKey: Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UiAtlas.spriteatlas using Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8ec5a51dc7c926fab172e6145e3463') in 0.006374 seconds
+  Import took 0.010709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.701961 seconds.
+  path: Assets/Textures/UiAtlas.spriteatlas
+  artifactKey: Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UiAtlas.spriteatlas using Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75e9f5132b1b5ece0c181c5ff4462a5') in 0.005707 seconds
+  Import took 0.009802 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000725 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.174 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.2 MB.
+System memory in use after: 159.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 2.737451 ms (FindLiveObjects: 0.284994 ms CreateObjectMapping: 0.146990 ms MarkObjects: 2.181248 ms  DeleteObjects: 0.123076 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000520 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.177 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.4 MB.
+System memory in use after: 159.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 3.835511 ms (FindLiveObjects: 0.391128 ms CreateObjectMapping: 0.132748 ms MarkObjects: 3.161654 ms  DeleteObjects: 0.147194 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002518 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.374 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.6 MB.
+System memory in use after: 159.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 3.036058 ms (FindLiveObjects: 0.342109 ms CreateObjectMapping: 0.166606 ms MarkObjects: 2.397998 ms  DeleteObjects: 0.127575 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.213 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.8 MB.
+System memory in use after: 159.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 3.038151 ms (FindLiveObjects: 0.219679 ms CreateObjectMapping: 0.066564 ms MarkObjects: 2.605917 ms  DeleteObjects: 0.144554 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002862 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.262 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.0 MB.
+System memory in use after: 160.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2313.
+Total: 2.709470 ms (FindLiveObjects: 0.314621 ms CreateObjectMapping: 0.072758 ms MarkObjects: 2.195746 ms  DeleteObjects: 0.125085 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 210.014266 seconds.
+  path: Assets/Textures/UiAtlas.spriteatlas
+  artifactKey: Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UiAtlas.spriteatlas using Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Invalid sprite atlas asset encountered when matching atlas for sprite BlueButton. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite CloseButton. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite PopUpBackground. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Button. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Line. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Circle. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite ExTarget. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite CircleTarget. Please repack all your sprite atlases.
+
+ -> (artifact id: 'c726206c8073e55c4d88ab64230e8ce4') in 0.034745 seconds
+  Import took 0.039755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.017966 seconds.
+  path: Assets/Textures/UiAtlas.spriteatlas
+  artifactKey: Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UiAtlas.spriteatlas using Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5be68d9445fef9d14663935407e799') in 0.005896 seconds
+  Import took 0.010740 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.130 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.2 MB.
+System memory in use after: 160.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2317.
+Total: 2.796768 ms (FindLiveObjects: 0.301873 ms CreateObjectMapping: 0.140828 ms MarkObjects: 2.245576 ms  DeleteObjects: 0.107548 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.848033 seconds.
+  path: Assets/Textures/UiAtlas.spriteatlas
+  artifactKey: Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UiAtlas.spriteatlas using Guid(2ea668ca9318740398d4cf2e85ba53ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Invalid sprite atlas asset encountered when matching atlas for sprite BlueButton. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite CloseButton. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite PopUpBackground. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Button. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Line. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite Circle. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite ExTarget. Please repack all your sprite atlases.
+
+Invalid sprite atlas asset encountered when matching atlas for sprite CircleTarget. Please repack all your sprite atlases.
+
+ -> (artifact id: '772f96975ef11d0294fe4da152a796b0') in 0.022768 seconds
+  Import took 0.027837 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.151 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2321.
+Total: 2.496386 ms (FindLiveObjects: 0.345388 ms CreateObjectMapping: 0.074104 ms MarkObjects: 1.949666 ms  DeleteObjects: 0.124953 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.954374 seconds.
+  path: Assets/Scripts/Controllers/BoardController.cs
+  artifactKey: Guid(97b16272abfd94798a68d30542c8274c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Controllers/BoardController.cs using Guid(97b16272abfd94798a68d30542c8274c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd027b85e4d26361932e7a7787e326190') in 0.325905 seconds
+  Import took 0.330324 seconds .
+
